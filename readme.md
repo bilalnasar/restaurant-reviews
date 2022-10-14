@@ -1,1 +1,1 @@
-Lorem Ispum
+This full-stack project uses the MERN stack to allow users to create, modify and view other reviews. It has user authentication and data validation through MongoDB. It also allows users to see the locations of restaurants through Google Maps.
